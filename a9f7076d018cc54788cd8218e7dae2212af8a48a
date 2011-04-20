@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAADn//+8I\u003d",
+        "filename": "res/values/wallpapers.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 444
+      },
+      "writtenOn": "2011-04-20T04:32:31Z",
+      "side": 1,
+      "message": "Can you add the missing space here between Wooded and :: before it\u0027s merged? :)",
+      "revId": "a9f7076d018cc54788cd8218e7dae2212af8a48a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
