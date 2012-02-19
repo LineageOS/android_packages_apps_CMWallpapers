@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAQX//+eA\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-02-19T04:56:18Z",
+      "side": 1,
+      "message": "Waarom veranderen van CyanogenMod naar CM? De volledige naam is de standaard in andere talen.",
+      "revId": "eba7189ce790caf969a9b2040f99e46079137502",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
