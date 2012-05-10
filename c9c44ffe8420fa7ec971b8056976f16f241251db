@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAS3///IA\u003d",
+        "filename": "res/values-pl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 2930
+      },
+      "writtenOn": "2012-05-10T15:20:14Z",
+      "side": 1,
+      "message": "\u0027Brak tapety\u0027 seems better",
+      "revId": "c9c44ffe8420fa7ec971b8056976f16f241251db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
