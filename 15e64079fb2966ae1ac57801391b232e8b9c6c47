@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//8z4\u003d",
+        "filename": "res/values/wallpapers.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-06-23T14:08:01Z",
+      "side": 1,
+      "message": "This one too?",
+      "revId": "15e64079fb2966ae1ac57801391b232e8b9c6c47",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
