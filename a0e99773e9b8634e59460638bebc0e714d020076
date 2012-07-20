@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAVX///NM\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-07-20T10:02:27Z",
+      "side": 1,
+      "message": "\"Set wallpaper\" \u003d\u003e Hintergrundbild festlegen",
+      "revId": "a0e99773e9b8634e59460638bebc0e714d020076",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
