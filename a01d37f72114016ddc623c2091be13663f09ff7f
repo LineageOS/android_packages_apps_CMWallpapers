@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a710552_cd2509af",
+        "filename": "res/drawable/gallery_border.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2013-12-17T15:19:12Z",
+      "side": 1,
+      "message": "add CM copyright",
+      "revId": "a01d37f72114016ddc623c2091be13663f09ff7f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a710552_2d1a8d6f",
+        "filename": "res/drawable/gallery_border.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2013-12-17T15:19:12Z",
+      "side": 1,
+      "message": "tabs to spaces",
+      "revId": "a01d37f72114016ddc623c2091be13663f09ff7f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a710552_ed2a457e",
+        "filename": "res/layout/wallpaper_chooser_2.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2013-12-17T15:19:12Z",
+      "side": 1,
+      "message": "tabs to spaces \u0026 remove whitespaces",
+      "revId": "a01d37f72114016ddc623c2091be13663f09ff7f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a710552_8d1f015b",
+        "filename": "res/values/colors.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2013-12-17T15:19:12Z",
+      "side": 1,
+      "message": "tab to spaces",
+      "revId": "a01d37f72114016ddc623c2091be13663f09ff7f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a710552_ad243daf",
+        "filename": "src/com/cyanogenmod/CMWallpapers/wallpaper.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2013-12-17T15:19:12Z",
+      "side": 1,
+      "message": "remove whitespace",
+      "revId": "a01d37f72114016ddc623c2091be13663f09ff7f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a710552_6d3735e4",
+        "filename": "src/com/cyanogenmod/CMWallpapers/wallpaper.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2013-12-17T15:19:12Z",
+      "side": 1,
+      "message": "wrap to 100 chars per line",
+      "revId": "a01d37f72114016ddc623c2091be13663f09ff7f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
