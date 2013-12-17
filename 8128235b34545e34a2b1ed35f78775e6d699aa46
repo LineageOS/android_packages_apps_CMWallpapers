@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a710552_8d7b817b",
+        "filename": "src/com/cyanogenmod/CMWallpapers/wallpaper.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2013-12-17T16:03:38Z",
+      "side": 1,
+      "message": "hmm why don\u0027t we change the current wallpaper_chooser layout instead of creating wallpaper_chooser_2?",
+      "revId": "8128235b34545e34a2b1ed35f78775e6d699aa46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
