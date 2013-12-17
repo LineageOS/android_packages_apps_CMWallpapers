@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a710552_4ddd996f",
+        "filename": "res/layout/wallpaper_chooser.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2013-12-17T16:13:57Z",
+      "side": 1,
+      "message": "tabs to spaces forgotten above :)",
+      "revId": "7ee50d49dd36885c998866739b91e9d266f33f54",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
