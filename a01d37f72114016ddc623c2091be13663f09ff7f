@@ -87,6 +87,23 @@
     },
     {
       "key": {
+        "uuid": "5a710552_2d312ded",
+        "filename": "src/com/cyanogenmod/CMWallpapers/wallpaper.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2013-12-17T15:19:58Z",
+      "side": 1,
+      "message": "why do we need the kitkat check?",
+      "revId": "a01d37f72114016ddc623c2091be13663f09ff7f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a710552_6d3735e4",
         "filename": "src/com/cyanogenmod/CMWallpapers/wallpaper.java",
         "patchSetId": 1
