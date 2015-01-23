@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_c417f252",
+        "filename": "res/values/color.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 5681
+      },
+      "writtenOn": "2015-01-23T11:46:43Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "fb6e291c88dc61232056c3bd0417c139e7b83806",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_642c46ac",
+        "filename": "res/values/color.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 5681
+      },
+      "writtenOn": "2015-01-23T11:46:43Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "fb6e291c88dc61232056c3bd0417c139e7b83806",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_842fbaa0",
+        "filename": "src/com/cyanogenmod/wallpapers/wallpaper.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 5681
+      },
+      "writtenOn": "2015-01-23T11:46:43Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "fb6e291c88dc61232056c3bd0417c139e7b83806",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
