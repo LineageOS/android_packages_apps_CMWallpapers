@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "da7fb54a_ef04bfc7",
+        "filename": "src/com/cyanogenmod/wallpapers/NoWallpaper.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-04-29T11:06:17Z",
+      "side": 1,
+      "message": "Ok, then if that is the case, should we provide a proper result?  The default I believe is RESULT_CANCELLED.",
+      "parentUuid": "da7fb54a_af6c779d",
+      "revId": "b8672b780aef7300af07629bc58b50be5749ca48",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da7fb54a_2f41470c",
         "filename": "src/com/cyanogenmod/wallpapers/NoWallpaper.java",
         "patchSetId": 2
