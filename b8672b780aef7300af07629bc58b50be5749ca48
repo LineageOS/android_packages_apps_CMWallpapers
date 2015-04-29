@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "da7fb54a_4f5dabe8",
+        "filename": "src/com/cyanogenmod/wallpapers/NoWallpaper.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-04-29T10:47:58Z",
+      "side": 1,
+      "message": "Does this have to be an activity?  I think you only need a context; doesn\u0027t need to be activity to get a WPM instance.  Maybe a receiver or intentservice.  Also do we want to make this a system broadcast or do we want to allow all applications to be able to set this wallpaper to black?",
+      "revId": "b8672b780aef7300af07629bc58b50be5749ca48",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da7fb54a_2f41470c",
         "filename": "src/com/cyanogenmod/wallpapers/NoWallpaper.java",
         "patchSetId": 2
