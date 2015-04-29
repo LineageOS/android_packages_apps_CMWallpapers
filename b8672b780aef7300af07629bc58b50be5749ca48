@@ -16,6 +16,24 @@
       "revId": "b8672b780aef7300af07629bc58b50be5749ca48",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da7fb54a_ef5d9fed",
+        "filename": "src/com/cyanogenmod/wallpapers/NoWallpaper.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-04-29T10:33:58Z",
+      "side": 1,
+      "message": "/mnt/CM/CM12.1/packages/apps/CMWallpapers/res/drawable/black.png",
+      "parentUuid": "da7fb54a_2f41470c",
+      "revId": "b8672b780aef7300af07629bc58b50be5749ca48",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
