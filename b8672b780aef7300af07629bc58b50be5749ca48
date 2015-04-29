@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "da7fb54a_af6c779d",
+        "filename": "src/com/cyanogenmod/wallpapers/NoWallpaper.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2015-04-29T11:01:05Z",
+      "side": 1,
+      "message": "This needs to be an activity because the wallpaper picker is the one that will end up launching this via startActivityForResultSafely.\n\nYou can see this in ThirdPartyWallpaperPickerListAdapter.java in the WallpaperPicker from Trebuchet.",
+      "parentUuid": "da7fb54a_4f5dabe8",
+      "revId": "b8672b780aef7300af07629bc58b50be5749ca48",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da7fb54a_2f41470c",
         "filename": "src/com/cyanogenmod/wallpapers/NoWallpaper.java",
         "patchSetId": 2
