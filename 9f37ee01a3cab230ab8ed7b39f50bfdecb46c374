@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "5faad753_bc38fe3c",
+        "filename": "res/layout/wallpaper_preview.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 13956
+      },
+      "writtenOn": "2016-05-27T17:25:50Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5faad753_1cf4b285",
+      "range": {
+        "startLine": 25,
+        "startChar": 0,
+        "endLine": 38,
+        "endChar": 3
+      },
+      "revId": "9f37ee01a3cab230ab8ed7b39f50bfdecb46c374",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5faad753_3cef2eb1",
         "filename": "res/values/styles.xml",
         "patchSetId": 1
@@ -36,6 +60,30 @@
       "writtenOn": "2016-05-27T17:23:18Z",
       "side": 1,
       "message": "You should not be using holo themes anymore, use a material based theme instead.",
+      "range": {
+        "startLine": 21,
+        "startChar": 42,
+        "endLine": 21,
+        "endChar": 52
+      },
+      "revId": "9f37ee01a3cab230ab8ed7b39f50bfdecb46c374",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_7c3a8634",
+        "filename": "res/values/styles.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 13956
+      },
+      "writtenOn": "2016-05-27T17:25:50Z",
+      "side": 1,
+      "message": "That\u0027s from live picker, since we possible want the same theme.\nAny other suggestions ?",
+      "parentUuid": "5faad753_3cef2eb1",
       "range": {
         "startLine": 21,
         "startChar": 42,
