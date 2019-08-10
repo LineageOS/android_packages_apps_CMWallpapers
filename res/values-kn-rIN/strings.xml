@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">CM ವಾಲ್‍ಪೇಪರ್ಸ್‍</string>
-  <string name="set_wallpaper">ವಾಲ್‍ಪೇಪರ್ ಹೊಂದಿಸಿ</string>
-  <string name="no_wallpaper">ವಾಲ್‍ಪೇಪರ್ ಬೇಡ</string>
+    <string name="app_name">CM ವಾಲ್‍ಪೇಪರ್ಸ್‍</string>
+    <string name="set_wallpaper">ವಾಲ್‍ಪೇಪರ್ ಹೊಂದಿಸಿ</string>
+    <string name="no_wallpaper">ವಾಲ್‍ಪೇಪರ್ ಬೇಡ</string>
 </resources>

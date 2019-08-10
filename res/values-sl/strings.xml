@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Slike ozadja CM</string>
-  <string name="set_wallpaper">Nastavi sliko ozadja</string>
-  <string name="no_wallpaper">Brez slike ozadja</string>
+    <string name="app_name">Slike ozadja CM</string>
+    <string name="set_wallpaper">Nastavi sliko ozadja</string>
+    <string name="no_wallpaper">Brez slike ozadja</string>
 </resources>
